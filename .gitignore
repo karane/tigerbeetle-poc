@@ -1,0 +1,8 @@
+# TigerBeetle binary and data files
+tigerbeetle
+*.tigerbeetle
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
